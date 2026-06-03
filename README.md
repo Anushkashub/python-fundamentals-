@@ -101,12 +101,12 @@ A game where the user guesses a randomly generated number.
 ```text
 Python-Fundamentals/
 │
+├── README.md
+├── atm_simpulation.py
 ├── calculator.py
-├── student_grade_calculator.py
-├── atm_simulation.py
-├── todo_list.py
 ├── number_guessing_game.py
-└── README.md
+├── student_grade_calculator.py
+└── todo_list.py
 ```
 
 ---
