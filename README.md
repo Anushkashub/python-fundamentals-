@@ -1,118 +1,187 @@
 # Python Fundamentals Projects 🚀
 
-This repository contains 5 beginner-level Python projects created to practice Python fundamentals such as variables, input/output, conditional statements, loops, lists, and basic problem-solving.
+Welcome to my Python Fundamentals Projects repository!
 
-## Projects Included
-
-### 1. Calculator
-A simple calculator that performs basic arithmetic operations.
-
-**Features:**
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-**Concepts Used:**
-- Variables
-- Input/Output
-- Conditional Statements
-- Operators
+This repository contains beginner-to-intermediate Python projects that I built while learning programming, problem-solving, file handling, and software development concepts. Each project helped me strengthen my understanding of Python and prepare for more advanced topics such as Object-Oriented Programming, Data Structures, Data Analysis, and Data Science.
 
 ---
 
-### 2. Student Grade Calculator
-Calculates total marks, percentage, and grade based on student scores.
+## 📂 Projects Included
 
-**Features:**
-- Calculate Total Marks
-- Calculate Percentage
-- Assign Grade
+### 1. ATM Simulation
 
-**Concepts Used:**
-- Variables
-- Arithmetic Operations
-- Conditional Statements
+A console-based ATM system that allows users to:
 
----
+* Check account balance
+* Deposit money
+* Withdraw money
+* Perform basic banking operations
 
-### 3. ATM Simulation
-A menu-driven ATM system that allows users to perform basic banking operations.
+**Skills Used:**
 
-**Features:**
-- Check Balance
-- Deposit Money
-- Withdraw Money
-- Exit System
-
-**Concepts Used:**
-- Loops
-- Conditional Statements
-- Menu-Driven Programming
+* Variables
+* Conditional Statements
+* Loops
+* Functions
 
 ---
 
-### 4. To-Do List
-A simple task management application.
+### 2. Calculator
 
-**Features:**
-- Add Tasks
-- View Tasks
-- Remove Tasks
+A simple calculator that performs:
 
-**Concepts Used:**
-- Lists
-- Loops
-- Conditional Statements
+* Addition
+* Subtraction
+* Multiplication
+* Division
 
----
+**Skills Used:**
 
-### 5. Number Guessing Game
-A game where the user guesses a randomly generated number.
-
-**Features:**
-- Random Number Generation
-- Guess Validation
-- Hint Messages
-
-**Concepts Used:**
-- Loops
-- Conditional Statements
-- Random Module
+* User Input
+* Arithmetic Operators
+* Functions
+* Conditional Logic
 
 ---
 
-## Skills Practiced
+### 3. Number Guessing Game
 
-- Python Basics
-- Variables and Data Types
-- User Input and Output
-- Arithmetic Operations
-- Conditional Statements
-- Loops
-- Lists
-- Functions from Modules
-- Problem Solving
+A fun game where the user tries to guess a randomly generated number.
 
----
+**Skills Used:**
 
-## Folder Structure
-
-```text
-Python-Fundamentals/
-│
-├── README.md
-├── atm_simpulation.py
-├── calculator.py
-├── number_guessing_game.py
-├── student_grade_calculator.py
-└── todo_list.py
-```
+* Random Module
+* Loops
+* Conditional Statements
+* Problem Solving
 
 ---
 
-## Author
+### 4. Student Grade Calculator
+
+Calculates student grades based on marks entered by the user.
+
+**Skills Used:**
+
+* Mathematical Operations
+* Conditional Statements
+* User Input
+* Logic Building
+
+---
+
+### 5. To-Do List
+
+A task management application that allows users to:
+
+* Add tasks
+* View tasks
+* Remove tasks
+
+**Skills Used:**
+
+* Lists
+* Loops
+* Functions
+* Basic Data Management
+
+---
+
+### 6. Contact Book
+
+A contact management system that allows users to:
+
+* Add contacts
+* Search contacts
+* Update contacts
+* Delete contacts
+
+**Skills Used:**
+
+* Dictionaries
+* File Handling
+* JSON
+* CRUD Operations
+
+---
+
+### 7. Expense Tracker
+
+A personal expense management application that allows users to:
+
+* Add expenses
+* View expenses
+* Calculate total spending
+* Search expenses by category
+* Generate monthly summaries
+
+**Skills Used:**
+
+* JSON
+* File Handling
+* Dictionaries
+* Data Analysis Basics
+
+---
+
+## 🛠 Skills Learned
+
+Through these projects, I have practiced:
+
+* Python Fundamentals
+* Variables and Data Types
+* Conditional Statements
+* Loops
+* Functions
+* Lists and Dictionaries
+* File Handling
+* JSON Data Storage
+* Problem Solving
+* Program Design
+* Basic Data Management
+
+---
+
+## 🎯 Learning Journey
+
+Current Focus:
+
+* Python Programming
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* SQL
+* Data Analysis
+* Data Science
+
+Upcoming Projects:
+
+* Quiz Application
+* Rock Paper Scissors Game
+* Library Management System
+* Banking System
+* Employee Management System
+
+---
+
+## 💻 Technologies Used
+
+* Python 3
+* VS Code
+* Git
+* GitHub
+
+---
+
+## 📈 Goal
+
+My goal is to build a strong foundation in Python and Data Science while continuously improving my problem-solving and software development skills through hands-on projects.
+
+---
+
+## 👤 Author
 
 **Anushka Jadhav**
 
-Python Fundamentals Practice Projects
+Aspiring Data Scientist | Python Learner | Computer Science Student
+
+Thank you for visiting this repository. ⭐
